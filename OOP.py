@@ -19,3 +19,12 @@ g.string_sound()
 
 p.play()
 p.key_sound()
+
+#Output
+
+"""
+Instrument is playing music
+Guitar produces string sound
+Instrument is playing music
+Piano produces key sound
+"""
